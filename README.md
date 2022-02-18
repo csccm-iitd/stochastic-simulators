@@ -8,7 +8,7 @@ TensorFlow implementation of deep learning-based surrogate model for stochastic 
 </p>
 Figure:  Schematic representation of the proposed deep learning framework based on CGMMN.
 
-# Dependecies
+# Dependencies
 
 - TensorFlow 2.8.0
 - Python 3.x
@@ -17,3 +17,10 @@ Figure:  Schematic representation of the proposed deep learning framework based 
 - pndas
 - SciPy
 - scikit-learn
+
+# Installation
+- Install TensorFlow and other dependencies.
+- Clone the repository using
+```
+git clone https://github.com/name_add/Deep-Learning-Based-Surrogate-Model-for-Stochastic-Simulator.git
+```
