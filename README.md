@@ -26,7 +26,7 @@ git clone https://github.com/name_add/Deep-Learning-Based-Surrogate-Model-for-St
 ```
 # Dataset for Training
 The dataset for the problems of SDE without closed form solution and Stochastic SIR could be generated using the code in **Data** folder of this repo.
-For the remaining two problems of 1-dimensional and 2-dimensional Stochastic Simulator problems with closed form solution, the code for dataset generation is inside the respective python scripts.
+For the remaining two problems of 1-D and 2-D Stochastic Simulator problems with closed form solution, the code for dataset generation is inside the respective python scripts.
 
 # Citation
 If this respository helped you, please considering the citing the following work:
