@@ -2,5 +2,6 @@
 Akshay Thakur and [Souvik Chakraborty](https://www.csccm.in/home)\
 \
 TensorFlow implementation of deep learning-based surrogate model for stochastic simulators. Generative neural network is used to approximate the stochastic response. A simple feed-forward neural network is used with a conditional maximum mean discrepancy (CMMD) loss-function. The CMMD allows to capture the discrepancy between the between the true response of the stochastic simulator and the distribution predicted by the neural network.
-
-![Image](Images/Neural Net.png)
+<p>
+    <img src="Images/Neural Net.png" width="220" height="240" />
+</p>
