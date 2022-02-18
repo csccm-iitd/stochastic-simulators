@@ -24,3 +24,5 @@ Figure:  Schematic representation of the proposed deep learning framework based 
 ```
 git clone https://github.com/name_add/Deep-Learning-Based-Surrogate-Model-for-Stochastic-Simulator.git
 ```
+# Dataset for Training
+The dataset for the problems of SDE without closed form solution and Stochastic SIR could be generated using the code in 	** Data** folder of this repo.
