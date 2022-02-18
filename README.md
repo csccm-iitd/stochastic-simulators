@@ -5,3 +5,4 @@ TensorFlow implementation of deep learning-based surrogate model for stochastic 
 <p>
     <img src="Images/Neural Net.png" width="1040" height="540" />
 </p>
+Figure:  Schematic representation of the proposed deep learning framework based on CGMMN.
