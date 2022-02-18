@@ -1,4 +1,4 @@
-# Overview\
+# Overview
 [A deep learning based surrogate model for stochastic simulators](https://arxiv.org/abs/2110.13809)\
 Akshay Thakur and [Souvik Chakraborty](https://www.csccm.in/home)\
 \
@@ -8,4 +8,12 @@ TensorFlow implementation of deep learning-based surrogate model for stochastic 
 </p>
 Figure:  Schematic representation of the proposed deep learning framework based on CGMMN.
 
-#Dependencies
+# Dependecies
+
+- TensorFlow 2.8.0
+- Python 3.x
+- NumPy
+- Matplotlib
+- pndas
+- SciPy
+- scikit-learn
