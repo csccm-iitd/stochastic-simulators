@@ -1,1 +1,1 @@
-# Stochastic-SIR-Model
+# Deep Learning Based Surrogate Model for Stochastic Simulators
