@@ -10,12 +10,12 @@ Figure:  Schematic representation of the proposed deep learning framework based 
 
 # Dependencies
 
-- TensorFlow 2.8.0
-- Python 3.x
-- NumPy
-- Matplotlib
-- pndas
-- SciPy
+- tensorflow 2.8.0
+- python 3.x
+- numpy
+- matplotlib
+- pandas
+- scipy
 - scikit-learn
 
 # Installation
